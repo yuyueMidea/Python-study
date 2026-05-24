@@ -1,0 +1,1 @@
+pyqt_beyond_compare_lite
